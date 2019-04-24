@@ -28,7 +28,7 @@ In this template...
 
 ## Use case
 
-- [JBEE.io](http://jbee.io)
+- [Kamake.io](http://kamake.io)
 
 > If you're using this template, Please Pull Request for `Use case`!
 
@@ -144,6 +144,6 @@ src/styles
 
 <div align="center">
 
-<sub><sup>Project by <a href="https://github.com/JaeYeopHan">@Jbee</a></sup></sub><small>✌</small>
+<sub><sup>Project by <a href="https://github.com/MrKamake">@Kamake</a></sup></sub><small>✌</small>
 
 </div>
