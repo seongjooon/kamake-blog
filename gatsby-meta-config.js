@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Kamake`,
+  title: `kamake`,
   description: `Blog posted about ...`,
   author: `kamake`,
   introduction: `🌊 surfin with my Christ on the wave 🌊`,
