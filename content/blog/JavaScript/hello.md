@@ -6,3 +6,4 @@ category: 'JavaScript'
 
 ### 블로그 만들기 성공!!
 
+![](./images/daejeon.png)
