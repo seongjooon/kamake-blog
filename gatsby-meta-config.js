@@ -2,9 +2,7 @@ module.exports = {
   title: `kamake`,
   description: `Blog posted about ...`,
   author: `kamake`,
-  introduction: `🌊 surfin with my Christ
-  
-  Christ on the wave 🌊`,
+  introduction: `🌊 surfin with my Christ on the wave 🌊`,
   siteUrl: `https://kamake.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
