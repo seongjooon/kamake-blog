@@ -4,7 +4,7 @@ date: 2019-4-24 16:21:13
 lang: 'en'
 ---
 
-# Seong Jooon Kim
+# Seong Joon Kim
 
 <div align="center">
 
