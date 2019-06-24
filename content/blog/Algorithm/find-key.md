@@ -1,5 +1,5 @@
 ---
-title: '3. Value Types and Reference Types'
+title: '[Algorithm] 컵돌리기'
 date: 2019-4-29 17:00:00
 category: 'Algorithm'
 ---
