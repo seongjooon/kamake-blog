@@ -6,7 +6,7 @@ module.exports = {
   siteUrl: `https://kamake.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: `https://github.com/MrKamake`, // Your GitHub account
+    github: `MrKamake`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: `ivan.kim.568089`, // Your Facebook account
   },
