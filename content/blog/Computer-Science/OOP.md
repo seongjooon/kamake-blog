@@ -1,7 +1,7 @@
 ---
 title: 'OOP(객체 지향 프로그래밍)'
 date: 2019-8-23 18:10:03
-category: 'Computer-Science'
+category: 'Computer Science'
 ---
 
 > ## OOP (Object Oriented Programming)

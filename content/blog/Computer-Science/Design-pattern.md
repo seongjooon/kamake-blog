@@ -1,7 +1,7 @@
 ---
 title: 'Design Pattern'
 date: 2019-9-20 03:07:03
-category: 'Computer-Science'
+category: 'Computer Science'
 ---
 
 > ## Singleton

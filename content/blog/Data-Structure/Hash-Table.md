@@ -1,7 +1,7 @@
 ---
 title: 'Hash Table'
 date: 2019-8-09 19:10:03
-category: 'Data-Structure'
+category: 'Data Structure'
 ---
 
 Hash는 내부적으로 배열을 활용해서 데이터를 저장하기 때문에 검색 속도가 빠르다. 특정한 값을 검색하는데 데이터 고유의 인덱스로 접근한다. Average Case의 Time Complexity는 O(1)이 된다. 하지만 문제는 이 인덱스로 저장되는 key값이 불규칙하다는 것이다.

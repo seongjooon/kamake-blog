@@ -1,7 +1,7 @@
 ---
 title: 'Tree'
 date: 2019-8-02 05:14:23
-category: 'Data-Structure'
+category: 'Data Structure'
 ---
 
 > ## Tree

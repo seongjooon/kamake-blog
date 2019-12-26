@@ -1,7 +1,7 @@
 ---
 title: 'Sorting Algorithm'
 date: 2019-8-16 23:13:43
-category: 'Data Structure'
+category: 'Algorithm'
 ---
 
 > #### Where sorting algorithms help us

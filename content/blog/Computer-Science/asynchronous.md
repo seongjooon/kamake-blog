@@ -1,7 +1,7 @@
 ---
 title: '비동기 프로그래밍'
 date: 2019-9-13 00:17:43
-category: 'Computer-Science'
+category: 'Computer Science'
 ---
 
 > ### 비동기 프로그래밍의 개념

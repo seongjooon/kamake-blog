@@ -1,7 +1,7 @@
 ---
 title: 'Array vs LinkedList'
 date: 2019-7-26 02:11:43
-category: 'Data-Structure'
+category: 'Data Structure'
 ---
 
 > ## Array
