@@ -1,7 +1,7 @@
 ---
 title: 'Stack and Queue'
 date: 2019-7-19 10:13:33
-category: 'Data Structure'
+category: 'Data-Structure'
 ---
 
 ## Stack
