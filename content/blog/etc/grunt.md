@@ -11,6 +11,15 @@ category: 'etc'
 - Loading Grunt plugins and tasks
 - Custom tasks
 
+실수나 반복적인 작업을 줄이기 위한 자동화 툴입니다.
+Grunt vs Gulp
+위처럼 둘은 같은 작업을 수행하지만, 수행하는 방법에서 차이가 있습니다.
+설정 파일 기반의 Grunt와 달리 Gulp는 JavaScript 코드를 다룰줄 아는 사람이면 쉽게 다룰 수 있습니다.
+
+grunt는 릴리즈가 느립니다.
+
+결론부터 말하자면 Webpack이 이들을 대체된다기 보다 이 기능이 포함되어 있고 더 많은 작업을 할 수 있기 때문에 이 도구를 사용하는 것입니다. Webpack은 Browserify와 같은 의존성 관리 기능까지 포함하고 있으니 “webpack = (Grunt||Gulp) + Browserify” 이게 되는 것입니다. 게다가 속도도 빠른 편입니다.
+
 > 기본 형식
 
 ```js
@@ -69,3 +78,7 @@ concat: {
   }
 }
 ```
+
+> sprite
+
+이미지를 하나의 파일로 만들어주는 역할을 합니다.
